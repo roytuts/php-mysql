@@ -1,0 +1,1 @@
+You can go through the tutorial https://roytuts.com/create-an-effective-pagination-in-php-and-mysql/
