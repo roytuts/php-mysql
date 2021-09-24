@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/run-php-web-applications-without-external-server/
