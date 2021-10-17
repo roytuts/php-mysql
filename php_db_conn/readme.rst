@@ -1,0 +1,1 @@
+You can go through the tutorial https://roytuts.com/database-connection-example-in-php-and-mysql/
